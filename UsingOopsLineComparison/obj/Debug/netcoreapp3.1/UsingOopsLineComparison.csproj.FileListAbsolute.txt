@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.exe
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.deps.json
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.runtimeconfig.json
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.dll
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\bin\Debug\netcoreapp3.1\UsingOopsLineComparison.pdb
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\obj\Debug\netcoreapp3.1\UsingOopsLineComparison.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\obj\Debug\netcoreapp3.1\UsingOopsLineComparison.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\obj\Debug\netcoreapp3.1\UsingOopsLineComparison.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\obj\Debug\netcoreapp3.1\UsingOopsLineComparison.dll
+D:\DLS-RFP-278\Project\UsingOopsLineComparison\UsingOopsLineComparison\obj\Debug\netcoreapp3.1\UsingOopsLineComparison.pdb
