@@ -9,7 +9,7 @@ namespace UsingOopsLineComparison
             Console.WriteLine("Welcome to LineComparison Program Using Oops Concept");
 
             TwoLineComparison twoLineComparison = new TwoLineComparison();
-            twoLineComparison.CompareTwoLineBasedEndPoint();
+            twoLineComparison.CompareTwoLineAndPrint();
         }
     }
 }

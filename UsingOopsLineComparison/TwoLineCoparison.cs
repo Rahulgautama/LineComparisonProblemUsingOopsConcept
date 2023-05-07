@@ -6,8 +6,9 @@ namespace UsingOopsLineComparison
 {
     class TwoLineComparison
     {
-        public void CompareTwoLineBasedEndPoint()
+        public static int CompareTwoLineBasedEndPoint()
         {
+            int comparisonResult=0;
             try
             {
                 double x1, y1, x2, y2, x3, y3, x4, y4;
@@ -39,25 +40,30 @@ namespace UsingOopsLineComparison
                 double length1 = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
                 double length2 = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
 
-                int comparisonResult = length1.CompareTo(length2);
-
-                if (comparisonResult == 0)
-                {
-                    Console.WriteLine("Line 1 is equal to line 2");
-                }
-                else if (comparisonResult < 0)
-                {
-                    Console.WriteLine("Line 1 is less than line 2");
-                }
-                else
-                {
-                    Console.WriteLine("Line 1 is greater than line 2");
-                }
+                comparisonResult = length1.CompareTo(length2);
+                
 
             }
             catch (Exception e)
             {
                 Console.WriteLine("Please Enter only Number with comma separated");
+            }
+            return comparisonResult;
+        }
+        public void CompareTwoLineAndPrint()
+        {
+            int comparisonResult = CompareTwoLineBasedEndPoint();
+            if (comparisonResult == 0)
+            {
+                Console.WriteLine("Line 1 is equal to line 2");
+            }
+            else if (comparisonResult < 0)
+            {
+                Console.WriteLine("Line 1 is less than line 2");
+            }
+            else
+            {
+                Console.WriteLine("Line 1 is greater than line 2");
             }
         }
     }
