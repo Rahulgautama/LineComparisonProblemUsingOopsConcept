@@ -8,8 +8,8 @@ namespace UsingOopsLineComparison
         {
             Console.WriteLine("Welcome to LineComparison Program Using Oops Concept");
 
-            CalculateLength calculateLength = new CalculateLength();
-            calculateLength.LineOfLenth();
+            TwoLineComparison twoLineComparison = new TwoLineComparison();
+            twoLineComparison.TwoLineEqualorNot();
         }
     }
 }
